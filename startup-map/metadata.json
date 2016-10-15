@@ -78,14 +78,29 @@
             "slug": "waermepumpe",
             "count": "2",
             "group": "200"
-        }
-        ,
+        },
         {
             "type": "perspective",
             "name": "BHKW",
             "description": "BHKW",
             "slug": "bhkw",
             "count": "3",
+            "group": "200"
+        },
+        {
+            "type": "perspective",
+            "name": "Heizstab",
+            "description": "heizstab",
+            "slug": "heizstab",
+            "count": "4",
+            "group": "200"
+        },
+        {
+            "type": "perspective",
+            "name": "Batterie",
+            "description": "batterie",
+            "slug": "batterie",
+            "count": "5",
             "group": "200"
         }
     ]
