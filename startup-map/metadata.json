@@ -14,26 +14,15 @@
         },
         {
             "type": "ditem",
-            "name": "Max More",
-            "description": "<a href=\"http://en.wikipedia.org/wiki/Max_More\">Max More</a> is the CEO of the <a href=\"http://www.alcor.org/\">Alcor Life Extension Foundation</a> and founder of the magazine <a href=\"http://www.extropy.org/\"><em>Extropy</em></a>.  He also coined the term <a href=\"http://en.wikipedia.org/wiki/Transhumanism\">transhumanist</a>.",
+            "name": "Thermondo",
+            "description": "<a href=\"https://www.thermondo.de\">Thermondo</a> Mit Thermondo gelangen Sie in wenigen Schrit­ten zur neuen Hei­zung: Dank unserer prä­zisen tech­nischen Pla­nung, digi­tali­sier­ten Pro­zessen und höchster Effi­zienz in der Um­setzung.",
             "ditem": 2,
-            "date": "2012-05-09 15:53:27",
-            "slug": "ditem-two-dr-max-more",
+            "date": "2016-10-15 21:05:00",
+            "slug": "ditem-thermondo",
             "links": [
-                "Economy",
-                "Environment",
-                "Government",
-                "Law",
-                "Population",
-                "Sci/Tech",
-                "Spirituality",
-                "Anthropocentric",
-                "Extrinsic",
-                "Individualist",
-                "Localized",
-                "Objectivist",
-                "Physicalist",
-                "Psychological Continuity"
+                "Digitalisierung",
+                "Dienstleistung Wärmeversorgung",
+                "Gastherme"
             ]
         },
         {
@@ -76,19 +65,28 @@
     "perspectives": [
         {
             "type": "perspective",
-            "name": "Biocentric",
-            "description": "To varying degrees, these conversations treat human life as having <a href=\"http://en.wikipedia.org/wiki/Biocentrism_%28ethics%29\">similar or equal moral weight</a> to other life. We are also including broader-than-life value sources like <a href=\"http://en.wikipedia.org/wiki/Ecocentrism\">ecocentrism</a> in this category. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#anthropocentric\">anthropocentric</a>.",
-            "slug": "biocentric-value-source",
-            "count": "10",
-            "group": "281"
+            "name": "Gastherme",
+            "description": "Gastherme",
+            "slug": "gastherme",
+            "count": "1",
+            "group": "200"
         },
         {
             "type": "perspective",
-            "name": "Anthropocentric",
-            "description": "To varying degrees, these conversations treat human life as having <a href=\"http://en.wikipedia.org/wiki/Anthropocentrism\">greater moral weight</a> than other life. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#biocentric\">biocentric</a>.",
-            "slug": "anthropocentric-value-source",
-            "count": "26",
-            "group": "281"
+            "name": "Wärmepumpe",
+            "description": "Wärmepumpe",
+            "slug": "waermepumpe",
+            "count": "2",
+            "group": "200"
+        }
+        ,
+        {
+            "type": "perspective",
+            "name": "BHKW",
+            "description": "BHKW",
+            "slug": "bhkw",
+            "count": "3",
+            "group": "200"
         }
     ]
 }
