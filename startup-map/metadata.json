@@ -18,7 +18,7 @@
             "description": "<a href=\"https://www.thermondo.de\">Thermondo</a> Mit Thermondo gelangen Sie in wenigen Schrit­ten zur neuen Hei­zung: Dank unserer prä­zisen tech­nischen Pla­nung, digi­tali­sier­ten Pro­zessen und höchster Effi­zienz in der Um­setzung.",
             "ditem": 2,
             "date": "2016-10-15 21:05:00",
-            "slug": "ditem-thermondo",
+            "slug": "ditem-two-thermondo",
             "links": [
                 "Digitalisierung",
                 "Dienstleistung Wärmeversorgung",
@@ -27,18 +27,27 @@
         },
         {
             "type": "ditem",
-            "name": "Peter Warren",
-            "description": "Peter Warren works for <a href=\"http://www.nature.org/\">The Nature Conservancy</a> and has been closely involved in an unlikely conversation that brought together ranchers and environmentalists to <a href=\"http://www.malpaiborderlandsgroup.org\">manage over 75,000 acres of grassland in Arizona</a>.",
+            "name": "Shine powered",
+            "description": "<a href=\"https://www.shinepowered.com\">Shine Powered</a>",
             "ditem": 3,
-            "date": "2012-05-14 01:10:12",
-            "slug": "ditem-three-peter-warren",
+            "date": "2016-10-15 21:05:00",
+            "slug": "ditem-three-shine-powered",
             "links": [
-                "Agriculture",
-                "Community",
-                "Economy",
-                "Environment",
-                "Government",
-                "Anthropocentric"
+                "Batterie",
+                "PV"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Easy Optimize",
+            "description": "<a href=\"https://www.rwe-easyoptimize.de/\">Easy Optimize</a>",
+            "ditem": 4,
+            "date": "2016-10-15 21:05:00",
+            "slug": "ditem-foure-easy-optimize",
+            "links": [
+                "Wärmepumpe",
+                "PV",
+                "Heizstab"
             ]
         }
     ],
