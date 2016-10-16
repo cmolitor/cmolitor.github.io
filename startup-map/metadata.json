@@ -186,8 +186,20 @@
         {
             "type": "ditem",
             "name": "Limon",
-            "description": "<a href=\"https://gridsystronic-energy.com\">Grid Systronic</a>",
+            "description": "<a href=\"http://www.limon-gmbh.de/home/\">Limon</a>",
             "ditem": 17,
+            "date": "2016-10-15 21:05:00",
+            "slug": "ditem-five-limon",
+            "links": [
+                "Energiemonitoring",
+                "Energiemanagement"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Grid Systronic",
+            "description": "<a href=\"https://gridsystronic-energy.com\">Grid Systronic</a>",
+            "ditem": 18,
             "date": "2016-10-15 21:05:00",
             "slug": "ditem-five-gridsystronic",
             "links": [
@@ -202,7 +214,7 @@
             "type": "ditem",
             "name": "Misurio",
             "description": "<a href=\"https://www.misurio.ch\">Misurio</a>",
-            "ditem": 18,
+            "ditem": 19,
             "date": "2016-10-15 21:05:00",
             "slug": "ditem-five-misurio",
             "links": [
