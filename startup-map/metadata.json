@@ -83,6 +83,134 @@
             "links": [
                 "Energielieferant"
             ]
+        },
+        {
+            "type": "ditem",
+            "name": "Dezera",
+            "description": "<a href=\"http://dezera.de/\">Dezera</a>",
+            "ditem": 8,
+            "date": "2016-10-15 21:05:00",
+            "slug": "ditem-five-dezera",
+            "links": [
+                "Virtuelles Kraftwerk"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Pixolus",
+            "description": "<a href=\"http://pixolus.de/\">Pixolus</a>",
+            "ditem": 9,
+            "date": "2016-10-15 21:05:00",
+            "slug": "ditem-five-pixolus",
+            "links": [
+                "Metering"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "GridX",
+            "description": "<a href=\"https://gridx.de/\">GridX</a>",
+            "ditem": 10,
+            "date": "2016-10-15 21:05:00",
+            "slug": "ditem-five-gridx",
+            "links": [
+                "Virtuelles Kraftwerk"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Enit",
+            "description": "<a href=\"https://www.enit-systems.com\">Enit</a>",
+            "ditem": 11,
+            "date": "2016-10-15 21:05:00",
+            "slug": "ditem-five-enit",
+            "links": [
+                "Energiemonitoring"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "KiwiGrid",
+            "description": "<a href=\"https://www.kiwigrid.com/de\">KiwiGrid</a>",
+            "ditem": 12,
+            "date": "2016-10-15 21:05:00",
+            "slug": "ditem-five-kiwigrid",
+            "links": [
+                "Energiemanagement"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "KiWi Power",
+            "description": "<a href=\"http://www.kiwipowered.com\">KiWi Power</a>",
+            "ditem": 13,
+            "date": "2016-10-15 21:05:00",
+            "slug": "ditem-five-kiwipower",
+            "links": [
+                "Demand Response"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Powerpeers",
+            "description": "<a href=\"https://www.powerpeers.nl\">Powerpeers</a>",
+            "ditem": 14,
+            "date": "2016-10-15 21:05:00",
+            "slug": "ditem-five-powerpeers",
+            "links": [
+                "Blockchain"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Grid Singularity",
+            "description": "<a href=\"http://gridsingularity.com/#\">Grid Singularity</a>",
+            "ditem": 15,
+            "date": "2016-10-15 21:05:00",
+            "slug": "ditem-five-gridsingularity",
+            "links": [
+                "Blockchain"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Smappee",
+            "description": "<a href=\"http://www.smappee.com/de/energiemonitor-zuhause\">Smappee</a>",
+            "ditem": 16,
+            "date": "2016-10-15 21:05:00",
+            "slug": "ditem-five-smappee",
+            "links": [
+                "Metering"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Limon",
+            "description": "<a href=\"https://gridsystronic-energy.com\">Grid Systronic</a>",
+            "ditem": 17,
+            "date": "2016-10-15 21:05:00",
+            "slug": "ditem-five-gridsystronic",
+            "links": [
+                "Energiemonitoring",
+                "Energiemanagement",
+                "Virtuelles Kraftwerk",
+                "BHKW",
+                "PV"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Misurio",
+            "description": "<a href=\"https://www.misurio.ch\">Misurio</a>",
+            "ditem": 18,
+            "date": "2016-10-15 21:05:00",
+            "slug": "ditem-five-misurio",
+            "links": [
+                "Energiemonitoring",
+                "Energiemanagement",
+                "Virtuelles Kraftwerk",
+                "PV"
+            ]
         }
     ],
     "themes": [
