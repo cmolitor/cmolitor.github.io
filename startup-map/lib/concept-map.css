@@ -70,7 +70,7 @@
 #transport {
   position: absolute;
   top: 410px; /* 350 + top pad of container */
-  width: 900px; /*750px*/
+  width: 1200px; /*750px*/
 }
 #transport a {
   position: absolute;
