@@ -77,7 +77,7 @@
             "name": "Gastherme",
             "description": "Gastherme",
             "slug": "gastherme",
-            "count": "1",
+            "count": "10",
             "group": "200"
         },
         {
@@ -85,7 +85,7 @@
             "name": "Wärmepumpe",
             "description": "Wärmepumpe",
             "slug": "waermepumpe",
-            "count": "2",
+            "count": "11",
             "group": "200"
         },
         {
@@ -93,7 +93,7 @@
             "name": "BHKW",
             "description": "BHKW",
             "slug": "bhkw",
-            "count": "3",
+            "count": "12",
             "group": "200"
         },
         {
@@ -101,7 +101,7 @@
             "name": "Heizstab",
             "description": "heizstab",
             "slug": "heizstab",
-            "count": "4",
+            "count": "13",
             "group": "200"
         },
         {
@@ -109,7 +109,7 @@
             "name": "Batterie",
             "description": "batterie",
             "slug": "batterie",
-            "count": "5",
+            "count": "14",
             "group": "200"
         }
     ]
