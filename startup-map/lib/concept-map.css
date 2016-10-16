@@ -118,10 +118,6 @@
   width: 750px; /*750px*/
 }
 
-.conceptmap {
-  height: 500px;
-  width: 1000px; /*750px*/
-}
 .conceptmap #controls .btn {
   position: relative;
   float: right;
