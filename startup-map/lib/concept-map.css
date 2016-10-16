@@ -115,7 +115,7 @@
 
 .conceptmap #controls {
   margin-top: 20px;
-  width: 750px;
+  width: 1000px; /*750px*/
 }
 .conceptmap #controls .btn {
   position: relative;
