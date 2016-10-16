@@ -43,11 +43,45 @@
             "description": "<a href=\"https://www.rwe-easyoptimize.de/\">Easy Optimize</a>",
             "ditem": 4,
             "date": "2016-10-15 21:05:00",
-            "slug": "ditem-foure-easy-optimize",
+            "slug": "ditem-four-easy-optimize",
             "links": [
                 "Wärmepumpe",
                 "PV",
                 "Heizstab"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Sonnen",
+            "description": "<a href=\"https://www.sonnen-batterie.com/\">Sonnen</a>",
+            "ditem": 5,
+            "date": "2016-10-15 21:05:00",
+            "slug": "ditem-five-sonnen",
+            "links": [
+                "Batterie"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Lumenaza",
+            "description": "<a href=\"https://www.lumenaza.de/\">Lumenaza</a>",
+            "ditem": 6,
+            "date": "2016-10-15 21:05:00",
+            "slug": "ditem-five-lumenaza",
+            "links": [
+                "Energielieferant",
+                "Direktvermarktung"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "Beegy",
+            "description": "<a href=\"https://www.beegy.de/\">Beegy</a>",
+            "ditem": 7,
+            "date": "2016-10-15 21:05:00",
+            "slug": "ditem-five-beegy",
+            "links": [
+                "Energielieferant"
             ]
         }
     ],
