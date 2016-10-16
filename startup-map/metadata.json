@@ -303,6 +303,22 @@
             "slug": "b2c",
             "count": "2",
             "group": "1"
+        },
+        {
+            "type": "perspective",
+            "name": "Hardware",
+            "description": "Hardware",
+            "slug": "hardware",
+            "count": "3",
+            "group": "2"
+        },
+        {
+            "type": "perspective",
+            "name": "Software",
+            "description": "Software",
+            "slug": "software",
+            "count": "4",
+            "group": "2"
         }
     ]
 }
