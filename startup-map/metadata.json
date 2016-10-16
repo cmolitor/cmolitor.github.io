@@ -228,51 +228,51 @@
         },
         {
             "type": "theme",
-            "name": "Class",
+            "name": "Energiemonitoring",
             "description": "",
-            "slug": "class-2"
+            "slug": "energiemonitoring-2"
+        },
+        {
+            "type": "theme",
+            "name": "Energiemanagement",
+            "description": "",
+            "slug": "energiemanagement-2"
+        },
+        {
+            "type": "theme",
+            "name": "Virtuelles Kraftwerk",
+            "description": "",
+            "slug": "virtuelles-kraftwerk-2"
+        },
+        {
+            "type": "theme",
+            "name": "PV",
+            "description": "Photovoltaik",
+            "slug": "pv-2"
+        },
+        {
+            "type": "theme",
+            "name": "BHKW",
+            "description": "Blockheizkraftwerk",
+            "slug": "bhkw-2"
         }
     ],
     "perspectives": [
         {
             "type": "perspective",
-            "name": "Gastherme",
-            "description": "Gastherme",
-            "slug": "gastherme",
-            "count": "10",
-            "group": "200"
+            "name": "B2B",
+            "description": "Business to Business",
+            "slug": "b2b",
+            "count": "1",
+            "group": "1"
         },
         {
             "type": "perspective",
-            "name": "Wärmepumpe",
-            "description": "Wärmepumpe",
-            "slug": "waermepumpe",
-            "count": "11",
-            "group": "200"
-        },
-        {
-            "type": "perspective",
-            "name": "BHKW",
-            "description": "BHKW",
-            "slug": "bhkw",
-            "count": "12",
-            "group": "200"
-        },
-        {
-            "type": "perspective",
-            "name": "Heizstab",
-            "description": "heizstab",
-            "slug": "heizstab",
-            "count": "13",
-            "group": "200"
-        },
-        {
-            "type": "perspective",
-            "name": "Batterie",
-            "description": "batterie",
-            "slug": "batterie",
-            "count": "14",
-            "group": "200"
+            "name": "B2C",
+            "description": "Business to Consumer",
+            "slug": "b2c",
+            "count": "2",
+            "group": "1"
         }
     ]
 }
