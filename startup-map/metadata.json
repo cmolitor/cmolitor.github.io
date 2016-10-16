@@ -267,6 +267,18 @@
             "name": "BHKW",
             "description": "Blockheizkraftwerk",
             "slug": "bhkw-2"
+        },
+        {
+            "type": "theme",
+            "name": "Gastherme",
+            "description": "Gastherme",
+            "slug": "gastherme-2"
+        },
+        {
+            "type": "theme",
+            "name": "Batterie",
+            "description": "Batterie",
+            "slug": "batterie-2"
         }
     ],
     "perspectives": [
