@@ -223,6 +223,20 @@
                 "Virtuelles Kraftwerk",
                 "PV"
             ]
+        },
+        {
+            "type": "ditem",
+            "name": "PowerCloud",
+            "description": "<a href=\"https://www.powercloud.de\">PowerCloud</a>",
+            "ditem": 20,
+            "date": "2016-10-15 21:05:00",
+            "slug": "ditem-five-powercloud",
+            "links": [
+                "Software",
+                "B2B",
+                "Prozesse",
+                "Digitalisierung"
+            ]
         }
     ],
     "themes": [
@@ -285,6 +299,12 @@
             "name": "Blockchain",
             "description": "Blockchain",
             "slug": "blockchain-2"
+        },
+        {
+            "type": "theme",
+            "name": "Prozesse",
+            "description": "Prozesse",
+            "slug": "prozesse-2"
         }
     ],
     "perspectives": [
