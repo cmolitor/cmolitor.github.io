@@ -2,119 +2,142 @@
     "ditems": [
         {
             "type": "ditem",
-            "name": "Thermobox",
-            "description": "<a href=\"https://www.thermobox.de\">Digitales Plannungstool für den Bau und dem Betrieb von modernen Energie- und Wärmeerzeugungsanlagen.</a>.",
+            "name": "THERMOBOX",
+            "description": "<a href=\"https://www.thermobox.de\">THERMOBOX</a> bietet ein Softwaretool mit dem Handwerker, Stadtwerke und Immobilienbesitzer Heizanlagen vor Ort konfigurieren und direkt Angebote erstellen können. Die Software übernimmt die komplette Bestellung der Komponenten sowie die Kommunikation der mit dem Kunden. Hierzu gehören auch Förderungsanträge.",
             "ditem": 1,
             "date": "2016-10-13 13:59:00",
             "slug": "ditem-one-thermobox",
             "links": [
                 "Digitalisierung",
-                "Dienstleistung Wärmeversorgung"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Thermondo",
-            "description": "<a href=\"https://www.thermondo.de\">Thermondo</a> Mit Thermondo gelangen Sie in wenigen Schrit­ten zur neuen Hei­zung: Dank unserer prä­zisen tech­nischen Pla­nung, digi­tali­sier­ten Pro­zessen und höchster Effi­zienz in der Um­setzung.",
-            "ditem": 2,
-            "date": "2016-10-15 21:05:00",
-            "slug": "ditem-two-thermondo",
-            "links": [
-                "Digitalisierung",
-                "Dienstleistung Wärmeversorgung",
+                "B2B",
+                "Software",
+                "Prozesse",
+                "Wärme",
                 "Gastherme"
             ]
         },
         {
             "type": "ditem",
-            "name": "Shine powered",
-            "description": "<a href=\"https://www.shinepowered.com\">Shine Powered</a>",
-            "ditem": 3,
+            "name": "Thermondo",
+            "description": "<a href=\"https://www.thermondo.de\">Thermondo</a> ist der größte Heizungsbauer Deutschlands im Segment der Ein- und Zweifamilienhäuser. Thermondo hat die Abläufe/Prozesse eines klassischen Heizungsinstallateurs digitalisiert und bietet einen Rundum-Service von der Angebotserstellung bis zur Montage der Heizanlage.",
+            "ditem": 2,
             "date": "2016-10-15 21:05:00",
-            "slug": "ditem-three-shine-powered",
+            "slug": "ditem-two-thermondo",
             "links": [
-                "Batterie",
-                "PV"
+                "Digitalisierung",
+                "B2C",
+                "Wärme",
+                "Gastherme",
+                "Ölheizung",
+                "Solarthermie"
             ]
         },
         {
             "type": "ditem",
-            "name": "Easy Optimize",
-            "description": "<a href=\"https://www.rwe-easyoptimize.de/\">Easy Optimize</a>",
+            "name": "shine",
+            "description": "<a href=\"https://www.shinepowered.com\">shine</a> bietet Energiemanagementlösungen, die es erlauben den Eigenverbrauch von dezentralen Erzeugungsanlagen zu optimieren sowie überschüssige Strommengen in regionalen oder sonstigen Communities zu vermarkten. Zum einen besteht die shine Lösung aus einer cloud-basierten Plattform sowie verschiedenen Hardware-Komponenten wie Heizstäbe oder Batterien.",
+            "ditem": 3,
+            "date": "2016-10-15 21:05:00",
+            "slug": "ditem-three-shine-powered",
+            "links": [
+                "B2C",
+                "Wärme",
+                "Strom",
+                "Eigenverbrauchsoptimierung",
+                "Stromvermarktung",
+                "Software",
+                "Heizstab",
+                "PV",
+                "Batterie",
+                "Poolstrom"
+            ]
+        },
+        {
+            "type": "ditem",
+            "name": "RWE easy optimize",
+            "description": "<a href=\"https://www.rwe-easyoptimize.de/\">RWE easy optimize</a> bietet eine Hard- und Softwarelösung zur Steuerung von dezentralen Anlagen mit verschiedenen Zielfunktionen. Zielfunktionen sind Eigenverbrauchsoptimierung oder die Vermarktung der Strommengen im virtuellen Kraftwerk. Zur Optimierung des Eigenverbrauchs setzt RWE easy optimize Wärmepumpen, Heizstäbe und Batterien ein.",
             "ditem": 4,
             "date": "2016-10-15 21:05:00",
             "slug": "ditem-four-easy-optimize",
             "links": [
+                "B2C",
+                "Wärme",
+                "Strom",
+                "Eigenverbrauchsoptimierung",
+                "Stromvermarktung",
+                "Software",
+                "Hardware",
+                "Heizstab",
                 "Wärmepumpe",
-                "PV",
-                "Heizstab"
+                "BHKW",
+                "Batterie",
+                "Virtuelles Kraftwerk"
             ]
         },
         {
             "type": "ditem",
             "name": "Sonnen",
-            "description": "<a href=\"https://www.sonnen-batterie.com/\">Sonnen</a>",
+            "description": "<a href=\"https://www.sonnen-batterie.com/\">Sonnen</a> bietet mit der SonnenBatterie einen Batteriespeicher zur Ergänzung von PV-Anlagen an. Darüberhinaus bietet Sonnen mit der Sonnencommunity ein Strom sharing Modell an, bei dem überschüssiger Strom an andere Community Mitglieder vermarktet wird. Sonnen baut die Dienstleistungen rund um den Speicher immer weiter aus und versucht mit den Batteriespeichern auch am Regelenergiemarkt teilzunehmen.",
             "ditem": 5,
             "date": "2016-10-15 21:05:00",
             "slug": "ditem-five-sonnen",
             "links": [
-                "Batterie"
+                "Batterie",
+                "Eigenverbrauchsoptimierung",
+                "Stromvermarktung",
+                "Poolstrom",
+                "Virtuelles Kraftwerk",
+                "Stromlieferung",
+                "Strom",
+                "Regelenergie"
             ]
         },
         {
             "type": "ditem",
             "name": "Lumenaza",
-            "description": "<a href=\"https://www.lumenaza.de/\">Lumenaza</a>",
+            "description": "<a href=\"https://www.lumenaza.de/\">Lumenaza</a> bietet eine Softwareplattform die dezentrale Erzeugungsanlagen und Verbraucher zusammenbringt. Die erzeugte Strommenge der dezentralen Anlagen wird in einen Bilanzkreis aufgenommen aus dem die Verbaucher beliefert werden. Die Anlagenbetreiber erhalten eine Vergütung nach dem EEG Marktprämienmodell. Der Vorteil für die Verbraucher ist die Transparenz über die Stromherkunft.",
             "ditem": 6,
             "date": "2016-10-15 21:05:00",
             "slug": "ditem-five-lumenaza",
             "links": [
-                "Energielieferant",
-                "Direktvermarktung"
+                "Stromvermarktung",
+                "Software",
+                "Prozesse",
+                "Virtuelles Kraftwerk",
+                "Direktvermarktung",
+                "Stromlieferung",
+                "Strom",
+                "Poolstrom"
             ]
         },
         {
             "type": "ditem",
             "name": "Beegy",
-            "description": "<a href=\"https://www.beegy.de/\">Beegy</a>",
+            "description": "<a href=\"https://www.beegy.de/\">Beegy</a> bietet dezentrale Versorgungslösungen für einzelne Liegenschaften. Das Angebot besteht aus Hardware und Dienstleistungen. Auf der Hardwareseite werden PV-Anlagen, Batterien und Stromtankstellen für Elektroautos angeboten. Als Dienstleistungspakete bietet Beegy intelligentes Energiemanagement, Performance-Überwachung sowie eine Stromflatrate an.",
             "ditem": 7,
             "date": "2016-10-15 21:05:00",
             "slug": "ditem-five-beegy",
             "links": [
-                "Energielieferant"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Dezera",
-            "description": "<a href=\"http://dezera.de/\">Dezera</a>",
-            "ditem": 8,
-            "date": "2016-10-15 21:05:00",
-            "slug": "ditem-five-dezera",
-            "links": [
-                "Virtuelles Kraftwerk"
-            ]
-        },
-        {
-            "type": "ditem",
-            "name": "Pixolus",
-            "description": "<a href=\"http://pixolus.de/\">Pixolus</a>",
-            "ditem": 9,
-            "date": "2016-10-15 21:05:00",
-            "slug": "ditem-five-pixolus",
-            "links": [
-                "Metering"
+                "PV",
+                "Batterie",
+                "Stromtankstelle",
+                "Stromlieferung",
+                "Anlagenmonitoring"
             ]
         },
         {
             "type": "ditem",
             "name": "GridX",
-            "description": "<a href=\"https://gridx.de/\">GridX</a>",
+            "description": "<a href=\"https://gridx.de/\">GridX</a> bietet eine Steuerungsbox an, die es erlaubt Batteriesysteme verschiedener Hersteller, mit den Energiemärkten zu verknüpfen. Fokus liegt hier auf den Regelenergiemärkten. ",
             "ditem": 10,
             "date": "2016-10-15 21:05:00",
             "slug": "ditem-five-gridx",
             "links": [
-                "Virtuelles Kraftwerk"
+                "Virtuelles Kraftwerk",
+                "Hardware",
+                "B2C",
+                "Batterie",
+                "Regelenergie"
             ]
         },
         {
