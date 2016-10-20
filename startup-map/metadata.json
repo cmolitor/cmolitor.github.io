@@ -13,7 +13,8 @@
                 "Software",
                 "Prozesse",
                 "Wärme",
-                "Gastherme"
+                "Gastherme",
+                "Dienstleistung"
             ]
         },
         {
@@ -29,7 +30,8 @@
                 "Wärme",
                 "Gastherme",
                 "Ölheizung",
-                "Solarthermie"
+                "Solarthermie",
+                "Dienstleistung"
             ]
         },
         {
@@ -49,7 +51,8 @@
                 "Heizstab",
                 "PV",
                 "Batterie",
-                "Poolstrom"
+                "Poolstrom",
+                "Dienstleistung"
             ]
         },
         {
@@ -65,13 +68,12 @@
                 "Strom",
                 "Eigenverbrauchsoptimierung",
                 "Stromvermarktung",
-                "Software",
-                "Hardware",
                 "Heizstab",
                 "Wärmepumpe",
                 "BHKW",
                 "Batterie",
-                "Virtuelles Kraftwerk"
+                "Virtuelles Kraftwerk",
+                "Dienstleistung"
             ]
         },
         {
@@ -89,7 +91,10 @@
                 "Virtuelles Kraftwerk",
                 "Stromlieferung",
                 "Strom",
-                "Regelenergie"
+                "Regelenergie",
+                "Ware",
+                "Hardware",
+                "Dienstleistung"
             ]
         },
         {
@@ -107,7 +112,8 @@
                 "Direktvermarktung",
                 "Stromlieferung",
                 "Strom",
-                "Poolstrom"
+                "Poolstrom",
+                "Dienstleistung"
             ]
         },
         {
@@ -122,7 +128,10 @@
                 "Batterie",
                 "Stromtankstelle",
                 "Stromlieferung",
-                "Anlagenmonitoring"
+                "Anlagenmonitoring",
+                "Dienstleistung",
+                "Ware",
+                "Hardware"
             ]
         },
         {
@@ -134,7 +143,7 @@
             "slug": "ditem-five-gridx",
             "links": [
                 "Virtuelles Kraftwerk",
-                "Hardware",
+                "Dienstleistung",
                 "B2C",
                 "Batterie",
                 "Regelenergie"
@@ -143,12 +152,17 @@
         {
             "type": "ditem",
             "name": "Enit",
-            "description": "<a href=\"https://www.enit-systems.com\">Enit</a>",
+            "description": "<a href=\"https://www.enit-systems.com\">Enit</a> bietet mit dem ENIT Agent eine Komplettlösung für das Monitoring Ihres Strom-, Wärme-, Gas-, Dampf- oder Wasserverbrauchs zur Verfügung. Enit Agent vereint Datenlogger, Gateway, Datenbank, Server und Analysesoftware in einem Gerät. Das Gerät lässt sich mit allen gängigen Zählern und Systemen betreiben. Damit entfallen sonst notwendige Investitionen in Ausbau, Austausch oder Installation von Systemen. Zusätzlich zum Enit Agent wird ein Energiemanagement-Portal angeboten mit umfangreichen Auswertungsfunktionen.",
             "ditem": 11,
             "date": "2016-10-15 21:05:00",
             "slug": "ditem-five-enit",
             "links": [
-                "Energiemonitoring"
+                "Energiemonitoring",
+                "Energieberatung",
+                "Hardware",
+                "Software",
+                "Ware",
+                "Dienstleistung"
             ]
         },
         {
@@ -159,7 +173,11 @@
             "date": "2016-10-15 21:05:00",
             "slug": "ditem-five-kiwigrid",
             "links": [
-                "Energiemanagement"
+                "Energiemanagement",
+                "Ware",
+                "Hardware",
+                "Software",
+                "Dienstleistung"
             ]
         },
         {
@@ -362,6 +380,22 @@
             "slug": "software",
             "count": "4",
             "group": "2"
+        },
+        {
+            "type": "perspective",
+            "name": "Dienstleistung",
+            "description": "Dienstleistung",
+            "slug": "dienstleistung",
+            "count": "5",
+            "group": "3"
+        },
+        {
+            "type": "perspective",
+            "name": "Ware",
+            "description": "Ware",
+            "slug": "ware",
+            "count": "6",
+            "group": "3"
         }
     ]
 }
