@@ -289,12 +289,6 @@
         },
         {
             "type": "theme",
-            "name": "Dienstleistung Wärmeversorgung",
-            "description": "",
-            "slug": "dienstleistung-waermeversorgung-2"
-        },
-        {
-            "type": "theme",
             "name": "Energiemonitoring",
             "description": "",
             "slug": "energiemonitoring-2"
