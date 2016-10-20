@@ -94,7 +94,8 @@
                 "Regelenergie",
                 "Ware",
                 "Hardware",
-                "Dienstleistung"
+                "Dienstleistung",
+                "B2C"
             ]
         },
         {
@@ -113,7 +114,8 @@
                 "Stromlieferung",
                 "Strom",
                 "Poolstrom",
-                "Dienstleistung"
+                "Dienstleistung",
+                "B2B"
             ]
         },
         {
@@ -131,7 +133,8 @@
                 "Anlagenmonitoring",
                 "Dienstleistung",
                 "Ware",
-                "Hardware"
+                "Hardware",
+                "B2B"
             ]
         },
         {
